@@ -1,4 +1,4 @@
-#[Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+# [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
 
 This was the final project for McGill's COMP551: Applied Machine Learning.
 
